@@ -1,0 +1,20 @@
+.card{
+    border: 2px solid grey;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.card img{
+    width: 400px;
+    height: 400px;
+}
+
+.card button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.info{
+    text-align: left;
+}
